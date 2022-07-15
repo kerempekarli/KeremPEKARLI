@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kerempekarli" alt="kerempekarli" /></a> </p>
 
-- 🔭 I’m currently in **Patika.dev/Logo Cyber Security full stack developer bootcamp where we will be making projects using JavaScript, Vue.js and Node.js**
-
-- 🌱 I’m currently learning **Logo Cyber Security Full Stack Bootcamp**
-
 - 📫 How to reach me **kerempekarli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
