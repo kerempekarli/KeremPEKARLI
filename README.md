@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kerem PEKARLI</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kerempekarli&label=Profile%20views&color=0e75b6&style=flat" alt="kerempekarli" /> </p>
+
 
 
 - 📫 How to reach me **kerempekarli@gmail.com**
