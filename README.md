@@ -1,13 +1,8 @@
 <div align="center">
 
-# Hello, I'm [Your Full Name] 👋
+# Hello, I'm Kerem PEKARLI 👋
 
-I'm a [**Web and Mobile Developer**] focusing on [**Software Engineering**].
-
-## 🚀 Projects and Skills
-
-- [**Project Name 1**]: Brief description goes here.
-- [**Project Name 2**]: Brief description goes here.
+I'm a [*Full Stack Developer**] focusing on [**Software Engineering**].
 
 ### Technologies I Use
 
@@ -25,27 +20,15 @@ Git, Docker
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-username/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/your_username)
-[![Personal Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.yourusername.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/kerempekarli/))
 
-## 💼 Experience
-
-- [**Company Name 1**] - Position and Dates
-  - Responsibility 1
-  - Responsibility 2
-
-- [**Company Name 2**] - Position and Dates
-  - Responsibility 1
-  - Responsibility 2
 
 ## 🌱 Currently Learning
 
 [**List the topics you are currently learning**]
 
-## 👯 Open for Collaboration
+DevOps, CQRS, Onion architecture
 
-If you're interested in collaborating on projects or creating something together, feel free to reach out.
 
 ## 🤝 Thanks
 
