@@ -16,7 +16,7 @@ HTML, CSS, JavaScript, React
 MongoDB, MySQL, MsSQL, PostgreSQL
 
 **Other:**
-Git, Docker, Kubernetes
+Git, Docker, Kubernetes, Rabbitmq, Socketio
 
 ## 📫 Contact
 
