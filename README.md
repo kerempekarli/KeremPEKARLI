@@ -7,7 +7,7 @@ I'm a **Full Stack Developer** focusing on **Software Engineering**.
 ### Technologies I Use
 
 **Frontend:**
-HTML, CSS, JavaScript, React
+HTML, CSS, TailwindCSS, JavaScript, React, Nextjs, Vue, Nuxt
 
 **Backend:**
 .NET, Node.js
