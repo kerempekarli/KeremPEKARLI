@@ -25,8 +25,6 @@ Git, Docker
 
 ## 🌱 Currently Learning
 
-[**List the topics you are currently learning**]
-
 DevOps, CQRS, Onion architecture
 
 
