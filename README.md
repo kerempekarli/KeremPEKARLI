@@ -13,10 +13,10 @@ HTML, CSS, JavaScript, React
 .NET, Node.js
 
 **Databases:**
-MongoDB, MySQL
+MongoDB, MySQL, MsSQL, PostgreSQL
 
 **Other:**
-Git, Docker
+Git, Docker, Kubernetes
 
 ## 📫 Contact
 
