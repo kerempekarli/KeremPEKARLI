@@ -2,7 +2,7 @@
 
 # Hello, I'm Kerem PEKARLI 👋
 
-I'm a [*Full Stack Developer**] focusing on [**Software Engineering**].
+I'm a *Full Stack Developer** focusing on **Software Engineering**.
 
 ### Technologies I Use
 
