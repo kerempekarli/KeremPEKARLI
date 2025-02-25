@@ -20,7 +20,7 @@ Git, Docker, Kubernetes, Rabbitmq, Socketio
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/kerempekarli/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]((https://www.linkedin.com/in/kerempekarli/))
 
 
 ## 🌱 Currently Learning
