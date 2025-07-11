@@ -7,7 +7,7 @@
 ---
 
 ## 🧭 About Me
-- <img src="https://flagcdn.com/w40/th.png" width="20"/> Based in **Bangkok** (Remote-Ready)
+- <img src="https://flagcdn.com/w40/th.png" width="20"/>  Based in **Bangkok** (Remote-Ready)
 - 🏗️ **CTO @ Company Social** — Internal Communication Platform  
 - 🚀 Building fast, scalable MVPs with a focus on clarity  
 - 🧩 Specialized in Microservices, DDD & Clean Architecture  
