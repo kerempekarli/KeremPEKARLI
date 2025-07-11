@@ -1,6 +1,6 @@
 # ✨ Kerem Pekarlı  
 **Full Stack Developer · SaaS Founder · CTO**  
-*“I don't build for the hype — I build for clarity.”*
+*“ No Noise. Just Results.”*
 
 ---
 
