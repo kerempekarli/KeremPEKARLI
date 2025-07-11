@@ -1,3 +1,4 @@
+<img width="1280" height="742" alt="image" src="https://github.com/user-attachments/assets/b2c10f68-f5cf-4c4f-8216-c7363be313c3" />
 # ✨ Kerem Pekarlı  
 **Full Stack Developer · SaaS Founder · CTO**  
 *“ No Noise. Just Results.”*
