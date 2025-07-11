@@ -71,8 +71,9 @@
 >I solve one problem clearly, elegantly, completely.
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2d/8a/46/2d8a46428de04b8c1f101f7c403b326f.gif" />
+  <img src="https://i.pinimg.com/originals/2d/8a/46/2d8a46428de04b8c1f101f7c403b326f.gif" width="300" alt="Coding GIF" />
 </p>
+
 
 ---
 
