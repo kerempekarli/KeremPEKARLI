@@ -72,10 +72,6 @@
 >I don’t guess.  
 >I solve one problem clearly, elegantly, completely.
 
-<p align="left">
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/03/rengoku-gif-6.gif" width="300" alt="Coding GIF" />
-</p>
-
 
 ---
 
