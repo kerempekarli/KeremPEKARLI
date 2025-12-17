@@ -1,5 +1,3 @@
-<img width="1280" height="519" alt="cropped_anime_cover" src="https://github.com/user-attachments/assets/92356508-afc0-4c8a-857f-72647977bf71" />
-
 # ✨ Kerem Pekarlı  
 **Full Stack Developer · SaaS Founder · CTO**  
 *“ No Noise. Just Results.”*
