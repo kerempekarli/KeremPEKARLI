@@ -16,13 +16,14 @@
 ## ⚔️ Tech Stack
 
 **Frontend**  
-`React`, `Next.js (App Router)`, `Vite`, `Tailwind`, `RTK Query`
+`React`, `Next.js`, `Vite`, `Tailwind`, `RTK Query`,
+`Tanstack`, `Zustand`
 
 **Backend**  
-`Node.js`, `NestJS`, `GraphQL`, `REST`, `PostgreSQL`, `MongoDB`
+`Node.js`, `NestJS`, `GraphQL`, `REST`, `PostgreSQL`, `MongoDB`, `.Net Core`
 
 **DevOps**  
-`Docker`, `Kubernetes`, `GitHub Actions`, `Terraform`
+`Docker`, `Kubernetes`, `GitHub Actions`, `Terraform`, `AWS`
 
 **Messaging**  
 `RabbitMQ`, `Redis`
