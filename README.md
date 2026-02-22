@@ -1,59 +1,83 @@
 # ✨ Kerem Pekarlı  
-**Full Stack Developer · SaaS Founder · CTO**  
-*“ No Noise. Just Results.”*
+**Full-Stack Systems Architect · SaaS Builder · CTO**  
+*Operational Clarity. Production-Grade Systems.*
 
 ---
 
-## 🧭 About Me
-- <img src="https://flagcdn.com/w40/th.png" width="20"/>  Based in **Bangkok** (Remote-Ready)
-- 🏗️ **CTO @ Company Social** — Internal Communication Platform  
-- 🚀 Building fast, scalable MVPs with a focus on clarity  
-- 🧩 Specialized in Microservices, DDD & Clean Architecture  
-- 🎯 Minimal, product-driven mindset  
+## 🧭 About
+
+- 🇹🇭 Based in **Bangkok** (Remote-Ready)  
+- Architecting scalable B2B platforms  
+- Specialized in operational systems (Inventory, RBAC, Event-driven flows)  
+- Strong focus on concurrency safety & domain modeling  
+- I build systems that survive real production load  
 
 ---
 
-## ⚔️ Tech Stack
+## 🏗️ Core Expertise
 
-**Frontend**  
-`React`, `Next.js`, `Vite`, `Tailwind`, `RTK Query`,
-`Tanstack`, `Zustand`
+### System Design
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- Event-Driven Systems
+- State Machines
+- Concurrency-safe inventory systems
 
-**Backend**  
-`Node.js`, `NestJS`, `GraphQL`, `REST`, `PostgreSQL`, `MongoDB`, `.Net Core`
+### Frontend
+- React / Next.js
+- Role-based dashboards
+- Typed API clients
+- Data-heavy UI architecture
 
-**DevOps**  
-`Docker`, `Kubernetes`, `GitHub Actions`, `Terraform`, `AWS`
+### Backend
+- NestJS
+- PostgreSQL (Transactions, Row Locks)
+- REST / GraphQL
+- Microservices architecture
 
-**Messaging**  
-`RabbitMQ`, `Redis`
-
-**Tools**  
-`Git`, `Notion`, `Trello`, `ChatGPT`
+### Infrastructure
+- Docker
+- AWS
+- CI/CD pipelines
+- Structured logging & observability
 
 ---
 
-## 🌸 Featured Projects
+## 🚀 Selected Work
 
-### 🏢 Company Social (2024–)  
-> A private internal social platform for modern teams  
-- Modular stack: `NestJS + GraphQL + PostgreSQL + MongoDB`  
-- Event-driven architecture, RBAC, audience visibility  
-- SSR-ready frontend (`Vite + React + RTK Query`)
+### 🏢 Company Social  
+Private internal social platform  
+- NestJS + GraphQL backend  
+- RBAC + audience visibility engine  
+- Event-driven messaging  
+
+---
+
+### 📦 Forecasting & Replenishment Engine  
+Supply-chain system simulation  
+- Inventory ledger (on_hand / reserved / in_transit)  
+- Allocation → Shipment → Receive lifecycle  
+- Pessimistic row-lock protection  
+- Multi-role dashboards (Planner / DC Ops / Store Ops)
 
 ---
 
 ### 🐾 Veterinary SaaS  
-> Mobile-first platform for vet clinics in Asia  
-- Features: Appointments, Billing, LINE integration  
-- Built in 3 months — **Revenue Ready**
+Revenue-ready clinic management platform  
+- Appointment engine  
+- Billing flow  
+- LINE integration  
+- Mobile-first UX  
 
 ---
 
-### 🌾 FarmTech (GovTech)  
-> Agricultural production & logistics optimization  
-- DDD + Microservice + Role-based access  
-- `PostgreSQL + RabbitMQ` backend core
+## 🧠 Engineering Principles
+
+- Don’t overbuild.
+- Model the domain first.
+- Protect invariants.
+- Ship small. Scale clean.
+- Measure impact.
 
 ---
 
@@ -66,14 +90,7 @@
 
 ---
 
-## 💡 Philosophy
->I don’t overbuild.  
->I don’t guess.  
->I solve one problem clearly, elegantly, completely.
+## 📬 Contact
 
-
----
-
-## 🌐 Let's Connect
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kerempekarli/) or [kerempekarli.com](https://kerempekarli.com)
-
+- LinkedIn: https://www.linkedin.com/in/kerempekarli/
+- Website: https://kerempekarli.com
