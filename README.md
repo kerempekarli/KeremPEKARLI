@@ -81,15 +81,6 @@ Revenue-ready clinic management platform
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerempekarli&show_icons=true&theme=tokyonight&hide=stars&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerempekarli&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ## 📬 Contact
 
 - LinkedIn: https://www.linkedin.com/in/kerempekarli/
